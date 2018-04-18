@@ -21,6 +21,7 @@
 
 Basic Node.js Express backend API, with MongoDB database and Ethereum blockchain.
 
+**Disclaimer**: this is not a DApp per se. Actually it's more of a 'CApp' (Centralized App), as the intelligence and the users' private keys are stored in the server. The Ethereum Blockchain is used to validate and store transactions, but there is no smart contract capabilities.
 
 ## Get started
 
