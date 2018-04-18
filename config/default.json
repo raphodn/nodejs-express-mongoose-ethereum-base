@@ -1,0 +1,17 @@
+{
+  "jwt": {
+    "secret": "d04T63kb3E^xGF@ovE6CSweqk$Cx6v",
+    "expiration": {
+      "time": 7,
+      "unit": "days"
+    }
+  },
+  "database": {
+    "url": "mongodb://localhost/development"
+  },
+  "blockchain": {
+    "ethereum": {
+      "url": "http://localhost:7545"
+    }
+  }
+}
